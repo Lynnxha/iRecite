@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #2a2f3b;
+}
+
+.min-h-screen {
+  background-color: #2a2f3b;
+}
+
+.main-text {
+  color: #d4d4d8;
+}
